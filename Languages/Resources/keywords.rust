@@ -1,0 +1,55 @@
+abstract
+alignof
+as
+become
+box
+break
+const
+continue
+crate
+do
+else
+enum
+extern
+false
+final
+fn
+for
+if
+impl
+in
+let
+loop
+macro
+match
+mod
+move
+mut
+offsetof
+override
+priv
+pub
+pure
+ref
+return
+sizeof
+static
+self
+struct
+super
+true
+trait
+type
+typeof
+unsafe
+unsized
+use
+virtual
+where
+while
+yield
+
+- User set 1:
+- User set 2:
+- User set 3:
+- User set 4:
